@@ -1,8 +1,8 @@
-# Welcome to LZDoom!
+# Welcome to MLZDoom!
 
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/drfrag666/gzdoom?branch=g3.3mgw&svg=true)](https://ci.appveyor.com/project/drfrag666/gzdoom) [![Build Status](https://travis-ci.org/drfrag666/gzdoom.svg?branch=g3.3mgw)](https://travis-ci.org/drfrag666/gzdoom)
 
-## LZDoom is a fork of GZDoom 3.3 compiling with MinGW and running on older non SSE2 cpus while keeping the DDRAW and D3D backends for compatibility.
+## LZDoom is a fork of LZDoom compiling with MinGW and running on older non SSE2 cpus while keeping the DDRAW and D3D backends for compatibility.
 
 Copyright (c) 1998-2019 ZDoom + GZDoom teams, and contributors
 
